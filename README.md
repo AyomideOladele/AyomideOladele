@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyomideOladele
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m always learning
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on any beginner projects
 - 📫 How to reach me: check my profile
 
